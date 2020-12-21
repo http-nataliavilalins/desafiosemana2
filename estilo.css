@@ -1,0 +1,261 @@
+html, body{
+  margin: 0;
+}
+header{
+    background-color: red;
+    color:white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+#logo{
+    width: 65px;
+    position: absolute;
+    top: 5px;
+    margin-left: 5%;
+    margin-top: 0px;
+}
+.menu{
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 1%;
+}
+Li{
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+Li:hover{
+    background-color: yellow;
+}
+#capa {
+    background: url("capa.jpeg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+#t1{
+    color: white;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    text-shadow: 2px 2px black;
+}
+#t2 {
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 7px solid white;
+    text-shadow: 2px 2px  black;
+}
+#t3{
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-shadow:2px 2px   black;
+    font-size: 13px;
+}
+#acao {
+    color: blue;
+    border: 4px rgb(10, 10, 219) solid;
+    padding: 10px 20px 10px 20px ;
+}
+#c1{
+    color: blue;
+    padding-top: 4%;
+    font-size: 50px;
+    line-height: 0.8;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    text-align: center;
+}
+#n1{
+    color:blue;
+    padding-top: 2%;
+    font-size: 35px;
+    line-height: 0.8;
+    text-align: center;
+    text-shadow: black;
+}
+#c2{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c3{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c4{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c5{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c6{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c7{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c8{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c9{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c10{
+    color: blue;
+    padding-top: 4%;
+    font-size: 30px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+#c11{
+    color: blue;
+    padding-top: 2%;
+    font-size: 18px;
+    line-height: 0.8;
+    text-shadow: 1px 1px black;
+    text-align: center;
+    margin-top: 1%;
+}
+.coluna1 {    
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+iframe[AttributesStyle] {
+    width: 100%;
+    height: 400px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+iframe[useragentstylesheet] {
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+.coluna2{
+    float:left;
+    padding: 5%;
+    position: relative;
+    width: 40%;
+}
+footer{
+    background-color: red;
+    color: white;
+    float: left;
+    width: 100%;
+    height: 400px;
+}
+.centralizado{
+    text-align: center;
+}
+.justificado{
+    text-align: justify;
+}
+.cup{
+    background-color: rgb(191, 239, 248);
+    margin: 20px;
+}
+#m1{
+    float: right;
+}
+#menu3{
+    padding: 0 5%;
+    margin-top: 10%;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#menu4{
+    padding: 0 5%;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.coluna6{
+    float:left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+    margin-top: 5px;
+}
+.coluna7{
+    float:right;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.m4{
+    float:left;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.coluna5{
+    float: right;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.m5{
+    float: right;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.m10{
+    float: left;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+#menu5{
+    float: left;
+    padding: 0 5%;
+    margin-top: 5%;
+    margin-left: 0px;
+    margin-right: 0px;
+    width:100%
+}
